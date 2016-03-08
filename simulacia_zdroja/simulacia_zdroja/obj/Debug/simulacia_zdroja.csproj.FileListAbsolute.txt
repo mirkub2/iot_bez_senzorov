@@ -12,3 +12,6 @@ C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\obj\Debug\simulacia_zdroja.pdb
 C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\System.Net.Http.Formatting.dll
 C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\System.Net.Http.Formatting.xml
 C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\obj\Debug\simulacia_zdroja.csprojResolveAssemblyReference.cache
+C:\Users\mirkub\Source\Repos\iot_bez_senzorov\simulacia_zdroja\simulacia_zdroja\bin\Debug\simulacia_zdroja.exe.config
+C:\Users\mirkub\Source\Repos\iot_bez_senzorov\simulacia_zdroja\simulacia_zdroja\obj\Debug\simulacia_zdroja.exe
+C:\Users\mirkub\Source\Repos\iot_bez_senzorov\simulacia_zdroja\simulacia_zdroja\obj\Debug\simulacia_zdroja.pdb

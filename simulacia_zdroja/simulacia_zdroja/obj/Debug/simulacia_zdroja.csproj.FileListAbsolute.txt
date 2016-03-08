@@ -1,0 +1,14 @@
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\simulacia_zdroja.exe.config
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\simulacia_zdroja.exe
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\simulacia_zdroja.pdb
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\Newtonsoft.Json.dll
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\Microsoft.Azure.Amqp.pdb
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\Newtonsoft.Json.xml
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\obj\Debug\simulacia_zdroja.exe
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\obj\Debug\simulacia_zdroja.pdb
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\System.Net.Http.Formatting.dll
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\bin\Debug\System.Net.Http.Formatting.xml
+C:\azure\iothub\simulacia_zdroja\simulacia_zdroja\obj\Debug\simulacia_zdroja.csprojResolveAssemblyReference.cache
